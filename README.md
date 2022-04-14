@@ -2,7 +2,7 @@
 - 🔭 Trabalhando com front-end
 - 🌱 Estudando Javascript / React 
 
-## Olá eu sou Carla Galdino, Desenvolvedora Front-end!
+## Olá meu nome é Carla Galdino, sou Desenvolvedora Front-end!
 
 <div align="center">
   <a href="https://github.com/CarlaMGaldino">
