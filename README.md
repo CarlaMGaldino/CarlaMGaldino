@@ -1,6 +1,6 @@
 
-- 🔭 Trabalhando com front-end
-- 🌱 Estudando Javascript / React 
+-  Trabalhando como desevolvedora Front-End
+-  Estudando e desenvolvendo sempre
 
 ## Olá, meu nome é Carla. Sou Desenvolvedora Front-end!
 
