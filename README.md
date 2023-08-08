@@ -28,7 +28,7 @@
 </div>
 
 <div>
-  <img align="center" alt="carla-CSS" height="30" width="40" src="file:///C:/Users/carli/Downloads/github-contribution-grid-snake.svg">
+  <img align="center" alt="carla-CSS" height="30" width="40" src="https://github.com/CarlaMGaldino/CarlaMGaldino/blob/main/github-contribution-grid-snake.svg">
 
 </div>
 
