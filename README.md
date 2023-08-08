@@ -27,6 +27,8 @@
  
 </div>
 
-<div></div>
+<div>
+<img src="file:///C:/Users/carli/Downloads/github-contribution-grid-snake.svg">
+</div>
 
 </div>
