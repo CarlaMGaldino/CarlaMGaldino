@@ -28,7 +28,7 @@
 </div>
 
 <div>
-  ![Cobrinha](https://raw.githubusercontent.com/CarlaMGaldino/CarlaMGaldino/github-contribution-grid-snake.svg)
+  <img align="center" alt="carla-CSS" height="30" width="40" src="file:///C:/Users/carli/Downloads/github-contribution-grid-snake.svg">
 
 </div>
 
