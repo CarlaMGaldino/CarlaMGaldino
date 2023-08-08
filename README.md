@@ -28,7 +28,7 @@
 </div>
 
 <div>
-  ![Cobrinha](https://raw.CarlaMGaldino.com/seu-usuario/carla-galdino-main/github-contribution-grid-snake.svg)
+  ![Cobrinha](https://raw.githubusercontent.com/CarlaMGaldino/CarlaMGaldino/github-contribution-grid-snake.svg)
 
 </div>
 
