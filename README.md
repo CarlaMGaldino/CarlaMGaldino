@@ -2,7 +2,7 @@
 
 
 ## Olá, meu nome é Carla
-# Trabalhando como desevolvedora Front-End, sempre em busca de novos desafios e aprendizados!
+### Trabalhando como desevolvedora Front-End, sempre em busca de novos desafios e aprendizados!
 
 <div align="center">
 
