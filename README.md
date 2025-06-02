@@ -1,12 +1,12 @@
 
 
 
-# Hello, my name is Carla
-#💻 Web Developer passionate about building clean, responsive, and user-friendly websites.
-#🚀 I started my tech journey in 2021 and have been continuously growing through real-world projects and ongoing learning.
-#🌱 Skilled in HTML, CSS, SASS, JavaScript, jQuery, React.js, Tailwind CSS, PHP (WordPress, Laravel), MySQL, and API integration.
-#🎯 Currently working as a freelancer, always looking for new challenges and opportunities to grow professionally.
-#✨ Detail-oriented, dedicated, and driven by the goal of delivering high-quality digital solutions.
+ Hello, my name is Carla <br>
+💻 Web Developer passionate about building clean, responsive, and user-friendly websites.<br>
+🚀 I started my tech journey in 2021 and have been continuously growing through real-world projects and ongoing learning. <br>
+🌱 Skilled in HTML, CSS, SASS, JavaScript, jQuery, React.js, Tailwind CSS, PHP (WordPress, Laravel), MySQL, and API integration. <br>
+🎯 Currently working as a freelancer, always looking for new challenges and opportunities to grow professionally. <br>
+✨ Detail-oriented, dedicated, and driven by the goal of delivering high-quality digital solutions.
 
 <div align="center">
 
