@@ -2,7 +2,7 @@
 
 
 # Hello, my name is Carla
-#💻 Front-End Developer passionate about building clean, responsive, and user-friendly websites.
+#💻 Web Developer passionate about building clean, responsive, and user-friendly websites.
 #🚀 I started my tech journey in 2021 and have been continuously growing through real-world projects and ongoing learning.
 #🌱 Skilled in HTML, CSS, SASS, JavaScript, jQuery, React.js, Tailwind CSS, PHP (WordPress, Laravel), MySQL, and API integration.
 #🎯 Currently working as a freelancer, always looking for new challenges and opportunities to grow professionally.
